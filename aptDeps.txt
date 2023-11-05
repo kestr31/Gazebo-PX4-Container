@@ -1,0 +1,11 @@
+bat
+curl
+git
+gz-harmonic
+lsb-release
+mesa-utils
+mesa-vulkan-drivers
+neovim
+sudo
+wget
+zsh
